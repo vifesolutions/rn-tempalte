@@ -44,7 +44,7 @@ class Main extends Component {
           Você pode editar a tela no arquivo:
         </Text>
         <Text style={[styles.instructions, styles.fileName]}>
-          src/pages/Main/index.js
+          src/screens/Main/index.js
         </Text>
       </ImageBackground>
     );
