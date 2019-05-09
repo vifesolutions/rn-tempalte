@@ -9,7 +9,6 @@
 
 [![npm](https://img.shields.io/npm/v/react-native-template-vife.svg?label=npm%20package)](https://www.npmjs.com/package/react-native-template-vife)
 [![npm](https://img.shields.io/npm/dt/react-native-template-vife.svg)](https://www.npmjs.com/package/react-native-template-vife)
-[![npm](https://img.shields.io/npm/dt/react-native-template-vife.svg)](https://www.npmjs.com/package/react-native-template-vife)
 [![GitHub issues](https://img.shields.io/github/issues-raw/vinniciusgomes/rn-template.svg)](https://github.com/vinniciusgomes/rn-template/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/vinniciusgomes/rn-template.svg)](https://github.com/vinniciusgomes/rn-template/commits/master)
 [![NPM](https://img.shields.io/npm/l/react-native-template-vife.svg)](https://choosealicense.com/licenses/mit)
