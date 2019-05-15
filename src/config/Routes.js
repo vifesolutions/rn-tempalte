@@ -1,22 +1,16 @@
-import { createStackNavigator, createAppContainer } from "react-navigation";
+import { createSwitchNavigator, createAppContainer } from "react-navigation";
+
 
 import MainScreen from "~/screens/Main";
 
-const AppNavigator = createStackNavigator(
+const AppNavigator = createSwitchNavigator(
   {
     Main: {
       screen: MainScreen,
-      navigationOptions: () => ({
-        gestureResponseDistance: {
-          horizontal: -1,
-          vertical: -1
-        }
-      })
     }
   },
   {
-    initialRouteName: "Main",
-    swipeEnabled: false
+    initialRouteName: "Main"
   }
 );
 
