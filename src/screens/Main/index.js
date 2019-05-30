@@ -25,7 +25,7 @@ class Main extends Component {
           uri: "https://cdn.vife.dev/rn-template/background.png"
         }}
         style={styles.container}
-        resizeMode="cover"
+        resizeMode="stretch"
       >
         <StatusBar
           barStyle="light-content"
