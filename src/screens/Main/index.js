@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-
 import {
   Text,
   Image,
@@ -28,7 +27,11 @@ class Main extends Component {
         style={styles.container}
         resizeMode="cover"
       >
-        <StatusBar barStyle="light-content" backgroundColor="#7159c1" />
+        <StatusBar
+          barStyle="light-content"
+          backgroundColor={"transparent"}
+          translucent
+        />
         <Image
           source={{
             uri: "https://cdn.vife.dev/rn-template/logo.png"

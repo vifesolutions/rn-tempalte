@@ -76,7 +76,6 @@ Para conseguir utilizar o template, seja através do React Native CLI ou com uma
 
 Antes de seguirmos para as configurações e uso do template, é ideal que você tenha o ambiente configurado para criar e testar aplicativos em React Native
 
-
 ### Estrutura de Arquivos
 
 A estrutura de arquivos está da seguinte maneira:
