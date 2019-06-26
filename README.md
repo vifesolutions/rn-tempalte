@@ -113,7 +113,7 @@ Serão explicados os arquivos e diretórios na seção de [Edição](#edição).
 1. Para instalar e utilizar esse template o processo é bem simples, basta criar um projeto novo utilizando o comando:
 
 ```sh
-react-native init AwesomeExample --template vife
+react-native init meuApp --template vife
 ```
 
 2. Depois do projeto criado você pode deletar o arquivo `App.js` da raiz, pois o arquivo `index.js` agora aponta para a pasta **src**.
